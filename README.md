@@ -6,6 +6,8 @@ Computer Information Systems Major and Cyber Security Minor
 
 Hello, I'm a Senior at UNA where I'm continuing to learn how to apply my knowledge learned in the classroom to everyday life. I am focused on learning new skills by partaking in new opportunities with determination. Eager to contribute a hardworking and ever learning attitude to a dedicated and motivated company.
 
+<img src="https://th-thumbnailer.cdn-si-edu.com/-gQ0Mexh5E5Vd64bn2hy61B3Pog=/1000x750/filters:no_upscale():focal(800x602:801x603)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3a/fb/3afb3353-3a1b-4314-a0ee-93d37a1d9b66/gettyimages-1246951746_web.jpg" width='400' height='300' alt="Envision"/>
+
 * 🌍  I'm based in Alabama
 * ✉️  You can contact me at [victorlove476@gmail.com](mailto:victorlove476@gmail.com)
 * 🧠  I'm learning Web Development and IT infrastructure
