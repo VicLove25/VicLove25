@@ -6,10 +6,10 @@ Computer Information Systems Major and Cyber Security Minor
 
 Hello, I'm a Senior at UNA where I'm continuing to learn how to apply my knowledge learned in the classroom to everyday life. I am focused on learning new skills by partaking in new opportunities with determination. Eager to contribute a hardworking and ever learning attitude to a dedicated and motivated company.
 
-<img src="image/envision.png" width='400' height='300' alt="Envision"/>
+<img src="docs/envision.png" width='400' height='300' alt="Envision"/>
 
 * 🌍  I'm based in Alabama
-* 🔭 I am currently working on <a href="https://github.com/VicLove25/dev-george" target_"blank"> Dev-George</a>
+* 🔭 I am currently working on [Dev-George](https://github.com/VicLove25/dev-george)
 * ✉️  You can contact me at [victorlove476@gmail.com](mailto:victorlove476@gmail.com)
 * 🧠  I'm learning Web Development and IT infrastructure
 * 🤝  I'm open to collaborating on anything
