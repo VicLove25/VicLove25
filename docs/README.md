@@ -10,7 +10,7 @@ Hello, I'm a Senior at UNA where I'm continuing to learn how to apply my knowled
 
 * 🌍  I'm based in Alabama
 * 🔭 I am currently working on [UniTasker](https://github.com/VicLove25/UniTasker)
-* ✉️  You can contact me at [victorlove476@gmail.com](mailto:victorlove476@gmail.com)
+* ✉️  You can contact me at [vlovemo@outlook.com](mailto:vlovemo@outlook.com)
 * 🧠  I'm learning Web Development and Software Architecture
 * 🤝  I'm open to collaborating on anything
 
