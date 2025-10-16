@@ -9,9 +9,9 @@ Hello, I'm a Senior at UNA where I'm continuing to learn how to apply my knowled
 <img src="docs/envision.png" width='400' height='300' alt="Envision"/>
 
 * 🌍  I'm based in Alabama
-* 🔭 I am currently working on [Dev-George](https://github.com/VicLove25/dev-george)
+* 🔭 I am currently working on [UniTasker](https://github.com/VicLove25/UniTasker)
 * ✉️  You can contact me at [victorlove476@gmail.com](mailto:victorlove476@gmail.com)
-* 🧠  I'm learning Web Development and IT infrastructure
+* 🧠  I'm learning Web Development and Software Architecture
 * 🤝  I'm open to collaborating on anything
 
 <a href="https://www.github.com/VicLove25" target="_blank" rel="noreferrer"><img
