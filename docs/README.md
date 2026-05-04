@@ -1,17 +1,17 @@
 Hi 👋 My name is Victor Love
 ============================
 
-Computer Information Systems Major and Cyber Security Minor
+B.S. in Computer Information Systems, Minor in Cyber Security
 -----------------------------------------------------------
 
-Hello, I'm a Senior at UNA where I'm continuing to learn how to apply my knowledge learned in the classroom to everyday life. I am focused on learning new skills by partaking in new opportunities with determination. Eager to contribute a hardworking and ever learning attitude to a dedicated and motivated company.
+Hello, I'm a graduate from the University of North Alabama where I'm continuing to learn how to apply my knowledge learned in the classroom to everyday life. I am focused on learning new skills by partaking in new opportunities with determination. Eager to contribute a hardworking and ever learning attitude to a dedicated and motivated company.
 
 <img src="docs/envision.png" width='400' height='300' alt="Envision"/>
 
 * 🌍  I'm based in Alabama
 * 🔭 I am currently working on [UniTasker](https://github.com/VicLove25/UniTasker)
 * ✉️  You can contact me at [vlovemo@outlook.com](mailto:vlovemo@outlook.com)
-* 🧠  I'm learning Web Development and Software Architecture
+* 🧠  I'm studying the CompTIA CySA+
 * 🤝  I'm open to collaborating on anything
 
 <a href="https://www.github.com/VicLove25" target="_blank" rel="noreferrer"><img
